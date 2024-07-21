@@ -1,0 +1,4 @@
+HOSTNAME=ISCN5CG22150LC
+PID=31436
+PIPE=\\.\PIPE\0da6b4c5-01b4-47dd-bdce-05e6eb33e3e1
+LIBRARIES=C:/Users/DwiSetyabudi/.modustoolbox/global/device-db/release-v4.5.0/props.json;C:/Users/DwiSetyabudi/Documents/CSS_PROJECT/xmc_based/mtb_shared/mtb-xmclib-cat3/release-v4.4.0/props.json
